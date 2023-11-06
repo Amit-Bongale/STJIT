@@ -1,0 +1,27 @@
+
+.about-section{
+    background-color: rgb(51, 49, 49);
+    color: white;
+}
+
+
+.abt{
+    width: 800px;
+    text-align: center;
+    padding: 80px;
+}
+
+.link{
+    width: 800px;
+    padding: 50px;
+    text-align: center;
+}
+
+.contact{
+    width: 800px;
+    padding: 50px;
+}
+
+.link-item{
+    color: orange;
+}
