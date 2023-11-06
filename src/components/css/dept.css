@@ -74,4 +74,10 @@
 
 .strength-elem{
     padding: 20px 80px;
+    margin: 20px;
+}
+
+.strength-txt{
+    margin-top: 0;
+    border-bottom: 2px solid orange;
 }

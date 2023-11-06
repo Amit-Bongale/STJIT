@@ -12,6 +12,7 @@
 .News-section{
     background-color: rgba(150, 245, 199, 0.9);
     padding: 10px;
+
 }
 
 .News-main-headder{
@@ -23,28 +24,38 @@
 }
 
 .news-container{
-    margin-left: 250px;
+    background-color: rgba(255, 255, 255, 0.8);
+    width: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+    padding: 0;
+    border-radius: 10px;
 }
 
 .news-headder{
-    margin-top: 100px;
-    color: rgb(255, 140, 0);            
+    /* margin-top: 100px; */
+    color: rgb(255, 140, 0);
+    text-align: center;            
 }
 
 .news-subtext{
-    width: 500px;
+    width: 400px;
+    text-align: center;
 }
 
 .news-image{
    aspect-ratio: auto;
    width: 350px;
-   padding: 50px;
-   border-radius: 70px;
+   padding: 40px;
+   border-radius: 50px;
 }
 
 .news-image:hover{
     scale: 1.1;
-    transition: ease-in-out 10ms;
+    transition: ease-in-out 1s;
 }
 
 .button-text{

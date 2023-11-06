@@ -8,11 +8,11 @@ import About from './components/About';
 import Footer from './components/Footer';
 
 import './App.css';
-
+  
 function App() {
   return (
     <div>
-
+      
       <Details></Details>
       <Header></Header>
       <Mainimg></Mainimg>

@@ -24,22 +24,22 @@ function Section(){
 
                     <div className='strength-elem'>
                         <h2 className='flex-center'>6</h2>
-                        <h2>UG Programs</h2>
+                        <h2 className='strength-txt'>UG Programs</h2>
                     </div>
 
                     <div className='strength-elem'>
                         <h2 className='flex-center'>2000+</h2>
-                        <h2>students</h2>
+                        <h2 className='strength-txt'>students</h2>
                     </div>
 
                     <div className='strength-elem'>
                         <h2 className='flex-center'>100+</h2>
-                        <h2>Teachers</h2>
+                        <h2 className='strength-txt'>Teachers</h2>
                     </div>
 
                     <div className='strength-elem'>
                         <h2 className='flex-center'>186+</h2>
-                        <h2> Placements</h2>
+                        <h2 className='strength-txt'> Placements</h2>
                     </div>
 
                 </div>
