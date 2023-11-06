@@ -8,7 +8,7 @@ function Header(){
 
         <div className='navbar flex'>
         <div className='logo'>
-          <img id='clg-logo' src={clglogo}></img>
+          <img id='clg-logo' src={clglogo} alt='STJIT Logo'></img>
           <h2 className='logo-text'>Sri Taralabalu Institute of technology</h2>
         </div>
         
