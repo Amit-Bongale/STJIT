@@ -5,6 +5,7 @@ import Branches from './components/Branches';
 import Section from './components/Section';
 import News from './components/News';
 import About from './components/About';
+import Footer from './components/Footer';
 
 import './App.css';
 
@@ -19,6 +20,7 @@ function App() {
       <Section></Section>
       <News></News>
       <About></About>
+      <Footer></Footer>
       
     </div>
   );

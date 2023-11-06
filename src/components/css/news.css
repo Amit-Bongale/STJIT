@@ -1,3 +1,13 @@
+.flex{
+    display: flex;
+}
+
+.flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 
 .News-section{
     background-color: rgba(150, 245, 199, 0.9);
@@ -29,11 +39,12 @@
    aspect-ratio: auto;
    width: 350px;
    padding: 50px;
+   border-radius: 70px;
 }
 
 .news-image:hover{
     scale: 1.1;
-    transition: ease-in-out 400ms;
+    transition: ease-in-out 10ms;
 }
 
 .button-text{
@@ -46,3 +57,9 @@
     border-radius: 20px;
     cursor: pointer;
 }
+
+.footer{
+    background-color:  rgba(150, 245, 199, 0.9);
+}
+
+
